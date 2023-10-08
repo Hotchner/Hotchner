@@ -5,6 +5,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hotchner&show_icons=true&theme=cobalt)
 
 <div style="display: inline_block">
-    <p style="font-size: 1.5rem">Tecnologias que estou utilizando no momento:</p>
+    <p style="font-size: 1.5rem">Tecnologias que estou utilizando no momento</p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
