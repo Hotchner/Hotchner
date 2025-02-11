@@ -28,7 +28,7 @@
   <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=6474B9&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2>
   
   <h3 align="center">  
-    <img width="110vw" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
+    <img width="111vw" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
     <img width="100vw" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
     <img width="100px" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> 
   </h3>
