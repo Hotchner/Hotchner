@@ -1,9 +1,7 @@
 <a href="https://github.com/Hotchner"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=CARPE+DIEM&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
-  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Eduardo+Silva;I'm+22+years+old;I+am+from+Rio+de+Janeiro,+RJ;I+study+Systems+Development+at+UVA;Be+Welcome!🎉)](https://github.com/Hotchner)
-
 </div>
 
 <div align="left">
