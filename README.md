@@ -24,9 +24,8 @@
   <a href="https://github.com/Hotchner">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=FFFFFF&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/>
   </a>
-  
-  <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=FFFFFF&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2>
-  
+
+  <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=FFFFFF&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></p>
   <h3 align="center">  
     <img width="111vw" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
     <img width="100vw" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
@@ -34,6 +33,7 @@
   </h3>
 </div>
 
+<h2></h2>
 <div align="center">
   <a href="https://github.com/Hotchner">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=FFFFFF&vCenter=true&width=100&height=30&lines=MEET+ME!"/>
