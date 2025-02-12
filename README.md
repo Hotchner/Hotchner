@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hotchner&bg_color=0a0c10&color=FFFFFF&line=FFFFFF&point=937CD5&area=true&hide_border=false)](https://github.com/Hotchner)
+[![Hotchner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hotchner&theme=github-compact)](https://github.com/Hotchner/README)
 
 <div align="center">
   <a href="https://github.com/Hotchner">
