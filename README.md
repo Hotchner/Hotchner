@@ -10,7 +10,7 @@
   <a href="https://github.com/Hotchner">
     <img width="450px" height="160px"  align="left" src="https://github-readme-stats.vercel.app/api?username=Hotchner&show_icons=true&theme=transparent" alt="Hotchner github stats" />
     <img width="450px" height="213px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hotchner&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0a0c10&thme=transparent" />
-    <a href="https://github.com/Hotchner"><img height="366px" src="https://api.daily.dev/devcards/v2/q6Kr8H5R2stTVN2z9pn1W.png?type=default&r=klh" /></a>
+    <a href="https://github.com/Hotchner"><img height="369px" src="https://api.daily.dev/devcards/v2/q6Kr8H5R2stTVN2z9pn1W.png?type=default&r=klh" /></a>
   </a>
 </div>
 
