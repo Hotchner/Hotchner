@@ -42,33 +42,29 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Hotchner/Projeto1">
-        <img src="https://github.com/Hotchner/Projeto1/raw/main/preview.png" width="400px" alt="Projeto 1"/>
+        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/CS50P.png" width="150px" alt="Projeto 1"/>
       </a>
       <br/>
-      <b>Projeto 1</b>
     </td>
     <td align="center">
       <a href="https://github.com/Hotchner/Projeto2">
-        <img src="https://github.com/Hotchner/Projeto2/raw/main/preview.png" width="400px" alt="Projeto 2"/>
+        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/API.png" width="150px" alt="Projeto 2"/>
       </a>
       <br/>
-      <b>Projeto 2</b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/Hotchner/Projeto3">
-        <img src="https://github.com/Hotchner/Projeto3/raw/main/preview.png" width="400px" alt="Projeto 3"/>
+        <img src="https://github.com/Hotchner/Projeto3/raw/main/preview.png" width="150px" alt="Projeto 3"/>
       </a>
       <br/>
-      <b>Projeto 3</b>
     </td>
     <td align="center">
       <a href="https://github.com/Hotchner/Projeto4">
-        <img src="https://github.com/Hotchner/Projeto4/raw/main/preview.png" width="400px" alt="Projeto 4"/>
+        <img src="https://github.com/Hotchner/Projeto4/raw/main/preview.png" width="250px" alt="Projeto 4"/>
       </a>
       <br/>
-      <b>Projeto 4</b>
     </td>
   </tr>
 </table>
