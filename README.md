@@ -42,13 +42,13 @@
   <table align="center" style="margin-top: 15px;">
     <tr>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://github.com/Hotchner/Projeto1" target="_blank" style="text-decoration: none;">
+        <a href="https://github.com/Hotchner/CS50P" target="_blank" style="text-decoration: none;">
           <img src="https://github.com/Hotchner/Hotchner/blob/main/src/CS50P.png" width="150px" alt="Projeto 1" style="border: 0;"/>
         </a>
         <p style="margin-top: 10px; font-weight: bold; color: white; text-align: center;">CS50P</p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <a href="https://github.com/Hotchner/Projeto2" target="_blank" style="text-decoration: none;">
+        <a href="https://github.com/Hotchner/API" target="_blank" style="text-decoration: none;">
           <img src="https://github.com/Hotchner/Hotchner/raw/main/src/API.jpg" width="150px" alt="Projeto 2" style="border: 0;"/>
         </a>
         <p style="margin-top: 10px; font-weight: bold; color: white; text-align: center;">Car Store</p>
