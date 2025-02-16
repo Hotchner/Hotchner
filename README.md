@@ -35,6 +35,47 @@
 </div>
 
 <h2></h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1400&color=FFFFFF&vCenter=true&width=180&height=35&lines=SOME+PROJECTS"/>
+
+<table align="center" cellspacing="15">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Hotchner/Projeto1">
+        <img src="https://github.com/Hotchner/Projeto1/raw/main/preview.png" width="400px" alt="Projeto 1"/>
+      </a>
+      <br/>
+      <b>Projeto 1</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Hotchner/Projeto2">
+        <img src="https://github.com/Hotchner/Projeto2/raw/main/preview.png" width="400px" alt="Projeto 2"/>
+      </a>
+      <br/>
+      <b>Projeto 2</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Hotchner/Projeto3">
+        <img src="https://github.com/Hotchner/Projeto3/raw/main/preview.png" width="400px" alt="Projeto 3"/>
+      </a>
+      <br/>
+      <b>Projeto 3</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Hotchner/Projeto4">
+        <img src="https://github.com/Hotchner/Projeto4/raw/main/preview.png" width="400px" alt="Projeto 4"/>
+      </a>
+      <br/>
+      <b>Projeto 4</b>
+    </td>
+  </tr>
+</table>
+
+
+
+<h2></h2>
 <div align="center">
   <a href="https://github.com/Hotchner">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=3000&color=FFFFFF&vCenter=true&width=100&height=30&lines=MEET+ME!"/>
