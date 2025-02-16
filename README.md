@@ -39,9 +39,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1400&color=FFFFFF&vCenter=true&width=180&height=35&lines=SOME+PROJECTS"/>
 
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; padding: 20px;">
-      <img src="https://github.com/Hotchner/Hotchner/blob/main/src/CS50P.png" width="150px" alt="Projeto 1" style="border: 0; margin: 30px;"/>
-      <img src="https://github.com/Hotchner/Hotchner/raw/main/src/API.jpg" width="150px" alt="Projeto 2" style="border: 0; margin: 30px;"/>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+      <a href="https://github.com/Hotchner/Projeto1" target="https://github.com/Hotchner/CS50P">
+        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/CS50P.png" width="150px" alt="Projeto 1" style="border: 0; margin: 30px;"/>
+      </a>
+      <a href="https://github.com/Hotchner/Projeto2" target="https://github.com/Hotchner/API">
+        <img src="https://github.com/Hotchner/Hotchner/raw/main/src/API.jpg" width="150px" alt="Projeto 2" style="border: 0; margin: 30px;"/>
+      </a>
   </div>
 </div>
 
