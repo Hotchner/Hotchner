@@ -62,7 +62,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Hotchner/Projeto4">
-        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/tool.jpg" width="250px" alt="Projeto 4"/>
+        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/tool.jpg" width="150px" alt="Projeto 4"/>
       </a>
       <br/>
     </td>
