@@ -55,9 +55,8 @@
   </tr>
 </table>
 
-
-
 <h2></h2>
+
 <div align="center">
   <a href="https://github.com/Hotchner">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=3000&color=FFFFFF&vCenter=true&width=100&height=30&lines=MEET+ME!"/>
