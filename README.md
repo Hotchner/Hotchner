@@ -48,7 +48,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Hotchner/Projeto2">
-        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/API.png" width="150px" alt="Projeto 2"/>
+        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/API.jpg" width="150px" alt="Projeto 2"/>
       </a>
       <br/>
     </td>
