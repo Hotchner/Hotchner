@@ -38,7 +38,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1400&color=FFFFFF&vCenter=true&width=180&height=35&lines=SOME+PROJECTS"/>
 
-<table align="center" cellspacing="15">
+<table align="center" cellspacing="25">
   <tr>
     <td align="center">
       <a href="https://github.com/Hotchner/Projeto1">
@@ -49,20 +49,6 @@
     <td align="center">
       <a href="https://github.com/Hotchner/Projeto2">
         <img src="https://github.com/Hotchner/Hotchner/blob/main/src/API.jpg" width="150px" alt="Projeto 2"/>
-      </a>
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Hotchner/Projeto3">
-        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/open.png" width="150px" alt="Projeto 3"/>
-      </a>
-      <br/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Hotchner/Projeto4">
-        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/tool.jpg" width="150px" alt="Projeto 4"/>
       </a>
       <br/>
     </td>
