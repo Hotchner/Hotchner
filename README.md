@@ -56,7 +56,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Hotchner/Projeto3">
-        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/tool.jpg" width="150px" alt="Projeto 3"/>
+        <img src="https://github.com/Hotchner/Hotchner/blob/main/src/open.jpg" width="150px" alt="Projeto 3"/>
       </a>
       <br/>
     </td>
