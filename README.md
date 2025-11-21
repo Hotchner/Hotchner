@@ -24,7 +24,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1400&color=FFFFFF&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/>
   </a>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1400&color=FFFFFF&vCenter=true&width=350&height=30&lines=Back-End" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1400&color=FFFFFF&vCenter=true&width=100&height=30&lines=Back-End" alt="Typing SVG" />
   </p>
   
   <h3 align="center">  
