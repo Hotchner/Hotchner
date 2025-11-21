@@ -33,7 +33,7 @@
     <img width="112px" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
     <img width="120vw" src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white"/>
     <img width="148vw" src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white"/>
-    <img width="111vw" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img width="100vw" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </h3>
 </div>
 
