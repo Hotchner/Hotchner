@@ -1,4 +1,4 @@
-<p href="https://github.com/Hotchner"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=167AD9&height=180&section=header&text=CARPE+DIEM&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/></p>
+<p href="https://github.com/Hotchner"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=167AD9&height=180&section=header&text=&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/></p>
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi!,+I+am+Eduardo+Silva;I'm+23+years+old;I+am+from+Rio+de+Janeiro,+RJ;I+study+Systems+Development+at+UVA;Be+Welcome!🎉)](https://github.com/Hotchner)
@@ -72,5 +72,5 @@
 </div>  
 
 <a href="https://github.com/Hotchner">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=167AD9&height=180&section=footer&text=Always+striving+to+learn+and+evolve&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=55"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=167AD9&height=180&section=footer&text=&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=55"/>
 </a>
